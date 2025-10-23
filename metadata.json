@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Starter",
+  "description": "Upload an image and let an AI ghostwriter craft the opening paragraph of a story inspired by it. Then, listen to the story come to life with an expressive AI voice.",
+  "requestFramePermissions": []
+}
